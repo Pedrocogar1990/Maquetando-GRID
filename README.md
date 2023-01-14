@@ -81,6 +81,7 @@ al contenedor GRID. Estos valores son:
 * end
 * center
 * stretch (por defecto)
+* 
 ## Colocación Implícita
 La colocación implícita de los elementos GRID es lo que sucede cuando colocamos esos
 elementos fuera de la estructura del contenedor o cuando no les damos posición.
@@ -105,7 +106,7 @@ nombrando áreas. Para ello usaremos las siguientes propiedades:
 * grid-area en los elementos GRID
 * gird-template-area en el contenedor GRID.
 
-**Para profundizar mas en la maquetacion GRID os dejo algunos links**
+**Para profundizar mas en la maquetacion GRID os dejo algunos links en recursos adicionales**
 
 ## Construido con:
 
