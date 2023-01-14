@@ -105,7 +105,7 @@ nombrando áreas. Para ello usaremos las siguientes propiedades:
 * grid-area en los elementos GRID
 * gird-template-area en el contenedor GRID.
 
-** Para profundizar mas en la maquetacion GRID os dejo algunos links**
+** Para profundizar mas en la maquetacion GRID os dejo algunos links **
 
 ## Construido con:
 
